@@ -1,0 +1,7 @@
+{
+  "name": "BlueCab Prototype",
+  "description": "A high-fidelity minimalist e-hailing application prototype featuring User and Driver flows, real-time map simulation, and Gemini-powered destination suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
